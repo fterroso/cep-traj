@@ -2,7 +2,7 @@
 
 CEP-traj is a project to process spatio-temporal data by means of the Complex Event Processing (CEP) paradigm. 
 
-The key feature of CEP-tra are:
+The key feature of CEP-traj are:
 
 * Detection of sudden acceleration and deceleration of the moving objects.
 * Detection of different interactions between couples of moving objects (e.g. moving in parallel, converge, diverge, etc.)
@@ -11,7 +11,7 @@ In its current version the application is able to process trajectories stored in
 
 For more info about the application features, go to the reference section.
 
-## Third-party Libraru Dependencies
+## Third-party Library Dependencies
 * Esper v. 4.9
 * Log4J v. >=1.2.16
 * Commons-lang3 v.3.3.2
