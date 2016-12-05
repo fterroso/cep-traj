@@ -21,6 +21,6 @@ For more info about the application features, go to the reference section.
 
 
 ## Reference
-Please, if your are going to use it then reference it as
+Please, if your are going to use CEP-traj then reference it as
 
 Terroso-Saenz, F., Valdes-Vela, M., den Breejen, E., Hanckmann, P., Dekker, R., & Skarmeta-Gomez, A. F. (2015). CEP-traj: An event-based solution to process trajectory data. Information Systems, 52, 34-54.
