@@ -1,5 +1,5 @@
 # CEP-traj
-
+##Getting Started
 CEP-traj is a project to process spatio-temporal data by means of the Complex Event Processing (CEP) paradigm. 
 
 The key feature of CEP-traj are:
