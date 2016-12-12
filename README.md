@@ -11,7 +11,8 @@ In its current version the application is able to process trajectories stored in
 
 For more info about the application features, go to the reference section.
 
-## Third-party Library Dependencies
+## Requirements
+###Library dependencies
 * Esper v. 4.9
 * Log4J v. >=1.2.16
 * Commons-lang3 v.3.3.2
