@@ -20,6 +20,8 @@ For more info about the application features, go to the reference section.
 * jDOM
 * JTS Topology Suite v. 1.8
 
+## License
+CEP-traj is licensed under General Public License (GPL) version 3.
 
 ## Reference
 Please, if your are going to use CEP-traj then reference it as
